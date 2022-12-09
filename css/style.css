@@ -366,7 +366,7 @@ button:focus{
 #qr-section .popup img{
     position: absolute;
     left: 50%;
-    transform: translate(-50%, -20%);
+    transform: translate(-50%, -40%);
     border-radius: 5px;
     width: 400px;
     object-fit: cover;
