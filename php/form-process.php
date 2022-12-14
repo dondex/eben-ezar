@@ -40,7 +40,7 @@ if (empty($_POST["message"])) {
 }
 
 
-$EmailTo = "armanmia7@gmail.com";
+$EmailTo = "YaramayServices2020@gmail.com";
 $Subject = "New Message Received";
 
 // prepare email body text
@@ -74,5 +74,3 @@ if ($success && $errorMSG == ""){
         echo $errorMSG;
     }
 }
-
-?>
